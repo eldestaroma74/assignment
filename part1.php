@@ -1,5 +1,4 @@
 <?php
-
 public function postAction()
 {
 //avoid notices warnings
